@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio15 {
+public Class Exercicio15 {
     static Scanner sc = new Scanner(System.in);
     static int pontos = 0;
 
