@@ -1,4 +1,4 @@
-public Class Exercicio04 {
+public class Exercicio04 {
     public static void main(String[] args) {
 
         int soma = 0;
