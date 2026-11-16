@@ -1,7 +1,5 @@
-package Exercicio04;
-
 // Exercício 4: Reta representada por y = ax + b
-public Class Exercicio04 {
+public class Exercicio04 {
     private double a; // coeficiente angular
     private double b; // coeficiente linear
 
