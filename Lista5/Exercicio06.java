@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public Class Exercicio06 {
+public class Exercicio06 {
     public static void main(String[] args) {
         int numero = lerNumero();
         exibirTabuada(numero);

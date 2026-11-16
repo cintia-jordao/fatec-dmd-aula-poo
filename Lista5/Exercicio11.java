@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public Class Exercicio11 {
+public class Exercicio11 {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {

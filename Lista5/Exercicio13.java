@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public Class Exercicio13 {
+public class Exercicio13 {
     static Scanner sc = new Scanner(System.in);
     static int vida = 100;
 
