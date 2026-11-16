@@ -2,7 +2,7 @@ package JogoDaVelha;
 
 import java.util.Scanner;
 
-public Class JogoDaVelha {
+public class JogoDaVelha {
     private static final char[][] tabuleiro = new char[3][3];
     private static char jogadorAtual = 'X';
 
