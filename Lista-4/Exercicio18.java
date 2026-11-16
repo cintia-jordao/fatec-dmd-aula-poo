@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio18 {
+public Class Exercicio18 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[][] a = new int[3][3];
