@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio09 {
+public Class Exercicio09 {
     static Scanner sc = new Scanner(System.in);
     static double saldo = 0;
 
