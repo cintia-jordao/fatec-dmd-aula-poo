@@ -1,8 +1,8 @@
-package jogodavelha;
+package JogoDaVelha;
 
 import java.util.Scanner;
 
-public class JogoDaVelha {
+public Class JogoDaVelha {
     private static final char[][] tabuleiro = new char[3][3];
     private static char jogadorAtual = 'X';
 
